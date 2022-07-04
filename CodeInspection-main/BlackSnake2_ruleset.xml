@@ -7,7 +7,7 @@ https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
  <description>
  Code Inspection Lab, BlackSnake
  </description>
-<rule ref="category/apex/codestyle.xml/ClassNamingConventions" />
+<rule ref="category/java/codestyle.xml/ClassNamingConventions" />
 
 <rule ref="category/java/errorprone.xml/BeanMembersShouldSerialize">
     <priority>2</priority>
